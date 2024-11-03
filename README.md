@@ -20,4 +20,5 @@ A dynamic, modern blog platform built with the MERN stack, offering a smooth use
 4. **Run the Application**: Start both servers and explore the app at `localhost:<port>`
 
 ## 🌐 Live Demo
-Check out the live demo of the application [here]((https://mern-blog-1-gwc0.onrender.com/)).
+Check out the live demo of the application [here](https://mern-blog-1-gwc0.onrender.com/).
+
