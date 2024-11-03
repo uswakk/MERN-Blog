@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import { createPost } from '../api'; // Adjusted import to match export
 import '../App.css'; // Ensure App.css includes the styles
-import { Button } from '@/components/ui/Button';
+import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Label } from "@/components/ui/label"
 import { Textarea } from "@/components/ui/textarea"
